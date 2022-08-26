@@ -1,0 +1,159 @@
+ABSTSRACT
+The ‘Library Management system’ undertaken as a project is based on relevant technologies, which is an attempt to automate the existing library. The project enables its user to perform all the operations regarding a library. The project enables the user to make entry of a new book, deleting the record of a book from the library, issuing a book to member, making entry of a new member, deleting the record of a member from the library etc.  The process model we have used for our project is Linear Sequential because the requirements are well stated and understood before in hand. In analysis phase we analysed the requirements of what the project will do. We collected the requirements needed to develop the project. Then in the design phase we designed our project according to user satisfaction. We created database to store the details of members, books in tables. We designed DFD diagrams based  upon the operations that was carrying in the project. Then cost and effort estimations are calculated and testing and coding processes have been carried out.
+Hence in the existing system for LIBRARY MANAGEMENT SYSTEM, the performance evaluation system and the maintenance are done manually. The proposed system will maintain all the information in a standard database and will be able to generate reports when necessary.
+
+ INTRODUCTION
+Library Management System is a comprehensive library management solution that is suitable for both large and small libraries. Its flexible design enables Library Management System to be installed in a range of Library organizations, ranging from public libraries, through to academic, joint use and special libraries. This Library Management System Software is capable of handling Books with equal ease and efficiency. This is a Windows-based Library Management System, utilizing the latest advancements in the Information Technology to provide and improve Library Services.
+  Software requirements
+Operating System: we have chosen windows operating system for its best support and user friendliness.
+Database: to save the records of the applicants and their details, SQL database is used.
+  Hardware requirements
+LMSuses standard java classes and databases. The database should have backup capabilities.
+
+
+FUNCTIONAL REQUIREMENTS OF LIBRARY MANAGEMENT SYSTEM Project (FYP)
+•	Only authentic user must have the access to the system.
+•	Only the user must be able to provide the information related to the library.
+•	User must be able to:
+•	Provide the information regarding books.
+•	Search for the required books from database.
+•	Add new book to the database.
+•	Update the number of books in database.
+•	Enter data of issued book in Database.
+•	Information of returned books.
+NON-FUNCTIONAL REQUIREMENTS
+•	Reliability
+•	Security
+•	Scalability
+•	Ease of Use
+•	Accessibility
+•	Maintainability
+
+RISK IDENTIFICATION
+
+Checklist for risk identification –
+• Product size - Risks associated with the overall size of the software to be built or modified.
+• Business impact - Risks associated with constraints imposed by management or the marketplace.
+Medical store management system
+Introduction:
+Medical store Management System Project is a web based Medicine business delivery system for an existing Medical distribution. Online delivery of medicine is the process whereby Shopkeeper directly buy medicines from a Distributor, without an intermediary service, over the Internet. It is a form of electronic commerce. Medical store Management System Project is an attempt to provide the advantages of online medicine door delivery to shopkeeper without an intermediary agent of a physical shop. It combines the click-and-brick operations in a pharmacy business. It helps to buy the products in the specific distribution anywhere through Internet. Thus the customer will get the service of online medicine delivery from his/her Desired Service.
+TOOLS FOR DEVELOPMENT
+Our website is based on the following tools and computer languages:
+Back-end Tools and Technologies
+My SQL & XAMPP server
+Front-End Tools and Technologies
+1.	Sublime Text
+2.	HTML
+3.	CSS
+4.	JavaScript
+5.	PHP
+Other Tools and Technologies
+Microsoft word 2016 (for documentation)
+HARDWARE REQUIREMENT
+Computers equipped with a Pentium 4 processor or higher, The computer must have approximately 100MB of free hard drive space and 128MB of RAM.
+DEPLOYMENT
+•	Google chrome Version 75.0.3770.100 (Browser)
+•	Server side operating system windows server 2008
+•	Client side operating system Android, windows XP and above.
+Functional Requirements
+User
+User Login
+Register New User
+Add To Cart
+Visit Products
+Admin
+Manage User’s Orders
+Manage Products
+Non Functional Requirements
+Efficiency Requirement
+Implementation Requirement
+Delivery Requirement
+Database Security
+Availability
+Reservation system
+
+
+Abstract
+The management and booking of Rooms in hotels is a tedious and complicated task especially if it is done manually. Keeping track of large customers and all their details requires an inordinate space for file cabinets, not to mention the time the hotel administrator would spend going back and forth to file cabinets so as to look up each customer’s information. This is why a good hotel reservation system is needed to make this task as easy as possible. This paper shows how the noted complicated human task can be solved by using a database Management System together with scripting and programming languages like Html and PHP respectively as the key tools in the development of a hotel reservation System. The system was developed using the object-oriented software development approach which includes the use of object-oriented analysis, object- oriented design and object-oriented programming. This was done so that the developed software can be maintainable, reliable and scalable.
+Introduction
+The advances in mobile technology and availability of broadband have made it easier to search for a hotel and book through an online reservation system [1]. Although mobile applications are unlikely to revolutionize a hotels’ reservation system to the same extent that the internet did, it may have an impact on hotel revenue management and the concept of implementing price structures. An effective reservation system has to employ the latest technology to allow hoteliers to gain a competitive advantage over their rivals and remain at the forefront of emerging trends.
+
+Advantages of Reservation System in India
+1.	Equal representation
+2.	Implementation of justice and human rights
+3.	Economic balance in the society
+4.	Historical injustice
+5.	Levelled playing field
+6.	Administration quality
+Disadvantages of Reservation System in India
+1.	Encouraging casteism.
+2.	The benefit of the privileged only
+3.	Opposing meritocracy
+4.	Short-term relief
+5.	A barrier between ethnicities
+6.	Social unrest
+Software requirements:
+1.	Cloudbeds
+2.	Fareharbor
+3.	Checkfront
+4.	Peek pro tour operators
+5.	Lodgify
+Hardware requirements:
+1.	Core i5 processor 
+2.	2GB Ram. 
+3.	20GB of hard disk space in terminal machines 
+4.	1TB hard disk space in Server Machine
+
+
+Write the test suite for the above requirement
+1.	Verify that there is a portal to add new flights in the system.
+2.	Verify that on filling flight details like flight name, code, from and to destinations, capacity, timings, and frequency etc, new filghts get successfully added in the system.
+3.	Verify that users can search for flights by name, from-to airports or flight code for checking their status and timings.
+4.	Verify that search results have flight details, timings and availability.
+5.	Verify that clicking the search results open complete details for flight.
+Introduction
+•	Hospital Management System follows INCREMENTAL MODEL because initially software requirements are reasonably well defined but the overall scope of development effort is a purely linear process. 
+•	There may be other requirements of the user which will be known later. 
+•	So, those requirements can the implemented and delivered in the following next increments.
+Advantages 
+• The system automates the manual procedure of managing hospital activities. 
+• Doctors can view their patients’ treatment records and details easily. 
+• It even generates an instant bill.
+ • The system is convenient and flexible to be used. 
+• It saves their time, efforts, money and resources. 
+Disadvantages
+ • Requires large database. 
+• The admin has to manually keep updating the information by entering the details in the system. 
+• Need Internet connection
+Hardware Requirement
+•	Core i5 processor 
+•	2GB Ram. 
+•	20GB of hard disk space in terminal machines 
+•	1TB hard disk space in Server Machine
+Software Requirement 
+•	Windows 7 or above operating system 
+•	JRE 1.8 
+•	Mysql server
+Project risk: 
+•	Deliverydeadline tightened .team may use extra members to do job on scheduled time. 
+•	2. Losing of all project data this may happen due to hard disk failure. Back up the project online or in every system of every member. 
+•	3. Team distention / lack of cohesion. We make some rules how we consult.
+
+
+Functional Requirements: 
+
+•	Check Out of SRS
+
+•	Report Generation of SRS
+
+•	Database of SRS
+
+Non Functional Requirements 
+
+•	Security
+
+•	Performance 
+
+•	Maintainability 
+
+•	Reliability
